@@ -1,0 +1,1 @@
+include ':app', ':videoplayer', ':vitamio', ':vitamio-sample', ':FileDownloader', ':FileDownloaderDemo', ':FileDownloaderDemo2', ':library', ':myapplication', ':viewpager', ':app1', ':chinaunicom'

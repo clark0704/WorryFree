@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="main__item_download_percent_text_size">18sp</dimen>
+    <dimen name="main__item_downloaded_size_text_size">18sp</dimen>
+    <dimen name="main__item_extra_text_text_size">18sp</dimen>
+    <dimen name="main__item_file_name_text_size">24sp</dimen>
+    <dimen name="main__item_layout_minHeight">120dp</dimen>
+    <dimen name="main__item_total_size_text_size">18sp</dimen>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileDownloader/FileDownloader.iml" filepath="$PROJECT_DIR$/FileDownloader/FileDownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileDownloaderDemo/FileDownloaderDemo.iml" filepath="$PROJECT_DIR$/FileDownloaderDemo/FileDownloaderDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileDownloaderDemo2/FileDownloaderDemo2.iml" filepath="$PROJECT_DIR$/FileDownloaderDemo2/FileDownloaderDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorryFree.iml" filepath="$PROJECT_DIR$/WorryFree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/app1.iml" filepath="$PROJECT_DIR$/app1/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chinaunicom/chinaunicom.iml" filepath="$PROJECT_DIR$/chinaunicom/chinaunicom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videoplayer/videoplayer.iml" filepath="$PROJECT_DIR$/videoplayer/videoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio-sample/vitamio-sample.iml" filepath="$PROJECT_DIR$/vitamio-sample/vitamio-sample.iml" />
+    </modules>
+  </component>
+</project>
